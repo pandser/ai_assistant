@@ -7,5 +7,15 @@
 - Подготовить базу знаний из открытого источника.
 - Применить на практике пакеты из LlamaHub.
 
+
+## Стек
+- python
+- beautiful soup
+- transformers
+- torch
+- huggingface
+- langchain
+
+
 ## Итоги
 Подготовлена база знаний. Создан ИИ-ассистент на основе модели saiga_mistral_7b.
